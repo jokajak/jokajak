@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/jokajak/github_stats/main/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/jokajak/github_stats/main/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github_stats/main/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github_stats/main/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/jokajak/github_stats/main/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jokajak/github_stats/main/generated/languages.svg#gh-light-mode-only)
 
 - 🔭 I’m currently working on automating my home services following gitops principles.
